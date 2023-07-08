@@ -12,7 +12,7 @@ border-color: aqua;
 img {
 
 border-radius: 50px 50px 50px 50px;
-border-color: red;
+background-color: red;
 }
 
     

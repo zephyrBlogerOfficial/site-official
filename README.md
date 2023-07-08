@@ -11,8 +11,8 @@ border-color: aqua;
 
 img {
 
-border: 50;
-border-color: 50;
+border-radius: 50px 50px 50px 50px;
+border-color: red;
 }
 
     

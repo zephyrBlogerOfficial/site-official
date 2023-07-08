@@ -6,8 +6,14 @@ button {
 
 color: red;
 background-color: blue;  
+border-color: aqua;
 }
 
+img src {
+
+border: 50;
+
+}
 
     
   </style>

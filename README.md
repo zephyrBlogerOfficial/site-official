@@ -9,10 +9,10 @@ background-color: blue;
 border-color: aqua;
 }
 
-img src {
+img {
 
 border: 50;
-
+border-color: 50;
 }
 
     

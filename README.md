@@ -1,12 +1,11 @@
 # hi
 
-<!DOCTYPE html>
 <html>
   <style>
 button {
 
 color: red;
-  
+background-color: blue;  
 }
 
 

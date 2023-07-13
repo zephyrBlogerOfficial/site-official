@@ -16,7 +16,7 @@ color: yellow;
   <h2>hello</h2>
   <img src="https://github.com/zephyrBlogerOfficial/site-official/assets/138673777/224dbfca-3cd7-40b5-9f8c-c42b87cf08b6" height="460" width="1200"/>
 
-<a href="" target="_blank">
+<a href="hello.md" target="_blank">
         Click to open in a different tab
     </a>
   

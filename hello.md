@@ -1,7 +1,10 @@
-<h1>helllllooo</h1>
+<h1>vg bg b </h1>
 <style>
 
-h1 {
-body: red;
+ body {
+
+color: blue;
+
+}
   
 </style>

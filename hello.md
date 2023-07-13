@@ -3,7 +3,7 @@
 
  body {
 
-color: blue;
+background-color: blue;
 
 }
   
